@@ -36,8 +36,8 @@ To view the frontend application, open a web browser and enter the URL `http://l
 
 Low Income BMW or Mercedes Users
 
-![Alt Text]([url](https://github.com/SoniPratham/QuickQuery/blob/main/dashboard/images/Low%20Income%20BMW%20or%20Mercedes%20Users.png?raw=true))
+![Alt Text](https://github.com/SoniPratham/QuickQuery/blob/main/dashboard/images/Low%20Income%20BMW%20or%20Mercedes%20Users.png)
 
 Male Users with High Phone Price
 
-![Alt Text]([url](https://github.com/SoniPratham/QuickQuery/blob/main/dashboard/images/Male%20Users%20with%20High%20Phone%20Price.png?raw=true))
+![Alt Text](https://github.com/SoniPratham/QuickQuery/blob/main/dashboard/images/Male%20Users%20with%20High%20Phone%20Price.png)
