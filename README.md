@@ -31,3 +31,13 @@ The application is hosted locally on the machine and the host name is `localhost
 5. `http://localhost:3000/api/top-10-cities-users-highest-number-average-income`
 
 To view the frontend application, open a web browser and enter the URL `http://localhost:3000/`. This will display the dashboard page which contains a table with the data fetched from the API.
+
+## App Perview 
+
+Low Income BMW or Mercedes Users
+
+![Alt Text]([url](https://github.com/SoniPratham/QuickQuery/blob/main/dashboard/images/Low%20Income%20BMW%20or%20Mercedes%20Users.png?raw=true))
+
+Male Users with High Phone Price
+
+![Alt Text]([url](https://github.com/SoniPratham/QuickQuery/blob/main/dashboard/images/Male%20Users%20with%20High%20Phone%20Price.png?raw=true))
